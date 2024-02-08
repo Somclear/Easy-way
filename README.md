@@ -1,0 +1,2 @@
+# Easy-way
+Easy way
