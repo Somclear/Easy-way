@@ -1,0 +1,221 @@
+0000.001 (0) Opened log file at time: Thu, 08 Feb 2024 19:32:31 +0000 on http://localhost/Easy-jobs
+0000.065 (0) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.23.16 WP: 6.4.3 PHP: 8.0.30 (apache2handler, Windows NT MOHAMED 10.0 build 22621 (Windows 10) AMD64) MySQL: 10.4.32-MariaDB (max packet size=1048576) WPLANG: en_US Server: Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.0.30 safe_mode: 0 max_execution_time: 900 memory_limit: 512M (used: 84.1M | 86M) multisite: N openssl: OpenSSL 1.1.1t  7 Feb 2023 mcrypt: N LANG:  ZipArchive::addFile: Y
+0000.122 (0) Free space on disk containing Updraft's temporary directory: 887974.1 MB
+0000.181 (0) Tasks: Backup files: 1 (schedule: unset) Backup DB: 1 (schedule: unset)
+0000.249 (0) Semaphore (fd, wp_options) being initialised
+0000.479 (0) Requesting semaphore lock (fd) (apparently not via scheduler)
+0000.732 (0) Set semaphore last lock (fd) time to 2024-02-08 19:32:32
+0000.889 (0) Semaphore lock (fd) complete
+0001.179 (0) Backup run: resumption=0, nonce=9230bb36dfc9, file_nonce=9230bb36dfc9 begun at=1707420751 (1s ago), job type=backup
+0001.351 (0) Scheduling a resumption (1) after 300 seconds (1707421052) in case this run gets aborted
+0001.505 (0) Checking if we have a zip executable available
+0001.719 (0) Creation of backups of directories: beginning
+0001.921 (0) Beginning creation of dump of plugins (split every: 400 MB)
+0026.232 (0) Total entities for the zip file: 1495 directories, 7365 files (0 skipped as non-modified), 140.2 MB
+0026.529 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0 MB, 1 (1) files added so far); re-opening (prior size: 0 KB)
+0027.004 (0) Zip: backup_2024-02-08-2232_Easy_way_9230bb36dfc9-plugins.zip.tmp: 100 files added (on-disk size: 255.6 KB)
+0027.133 (0) Zip: backup_2024-02-08-2232_Easy_way_9230bb36dfc9-plugins.zip.tmp: 200 files added (on-disk size: 255.6 KB)
+0027.250 (0) Zip: backup_2024-02-08-2232_Easy_way_9230bb36dfc9-plugins.zip.tmp: 300 files added (on-disk size: 255.6 KB)
+0027.367 (0) Zip: backup_2024-02-08-2232_Easy_way_9230bb36dfc9-plugins.zip.tmp: 400 files added (on-disk size: 255.6 KB)
+0027.548 (0) Zip: backup_2024-02-08-2232_Easy_way_9230bb36dfc9-plugins.zip.tmp: 500 files added (on-disk size: 255.6 KB)
+0027.757 (0) Zip: backup_2024-02-08-2232_Easy_way_9230bb36dfc9-plugins.zip.tmp: 600 files added (on-disk size: 255.6 KB)
+0027.939 (0) Zip: backup_2024-02-08-2232_Easy_way_9230bb36dfc9-plugins.zip.tmp: 700 files added (on-disk size: 255.6 KB)
+0028.173 (0) Zip: backup_2024-02-08-2232_Easy_way_9230bb36dfc9-plugins.zip.tmp: 800 files added (on-disk size: 255.6 KB)
+0028.462 (0) Zip: backup_2024-02-08-2232_Easy_way_9230bb36dfc9-plugins.zip.tmp: 900 files added (on-disk size: 255.6 KB)
+0028.924 (0) Zip: backup_2024-02-08-2232_Easy_way_9230bb36dfc9-plugins.zip.tmp: 1000 files added (on-disk size: 255.6 KB)
+0028.992 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (16.4 MB, 7365 files batched, 1001 (1002) added so far); re-opening (prior size: 255.6 KB)
+0054.112 (0) Zip: backup_2024-02-08-2232_Easy_way_9230bb36dfc9-plugins.zip.tmp: 1100 files added (on-disk size: 6138.3 KB)
+0054.347 (0) Zip: backup_2024-02-08-2232_Easy_way_9230bb36dfc9-plugins.zip.tmp: 1200 files added (on-disk size: 6138.3 KB)
+0054.476 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 25 MB added on this batch (25.7 MB, 7365 files batched, 283 (1285) added so far); re-opening (prior size: 6138.3 KB)
+0086.347 (0) A useful amount of data was added after this amount of zip processing: 32.7 s (normalised: 31.8 s, rate: 804.3 KB/s)
+0086.521 (0) Zip: backup_2024-02-08-2232_Easy_way_9230bb36dfc9-plugins.zip.tmp: 1300 files added (on-disk size: 12825.3 KB)
+0086.721 (0) Zip: backup_2024-02-08-2232_Easy_way_9230bb36dfc9-plugins.zip.tmp: 1400 files added (on-disk size: 12825.3 KB)
+0087.077 (0) Zip: backup_2024-02-08-2232_Easy_way_9230bb36dfc9-plugins.zip.tmp: 1500 files added (on-disk size: 12825.3 KB)
+0087.299 (0) Zip: backup_2024-02-08-2232_Easy_way_9230bb36dfc9-plugins.zip.tmp: 1600 files added (on-disk size: 12825.3 KB)
+0087.440 (0) Zip: backup_2024-02-08-2232_Easy_way_9230bb36dfc9-plugins.zip.tmp: 1700 files added (on-disk size: 12825.3 KB)
+0087.589 (0) Zip: backup_2024-02-08-2232_Easy_way_9230bb36dfc9-plugins.zip.tmp: 1800 files added (on-disk size: 12825.3 KB)
+0087.931 (0) Zip: backup_2024-02-08-2232_Easy_way_9230bb36dfc9-plugins.zip.tmp: 1900 files added (on-disk size: 12825.3 KB)
+0088.304 (0) Zip: backup_2024-02-08-2232_Easy_way_9230bb36dfc9-plugins.zip.tmp: 2000 files added (on-disk size: 12825.3 KB)
+0088.514 (0) Zip: backup_2024-02-08-2232_Easy_way_9230bb36dfc9-plugins.zip.tmp: 2100 files added (on-disk size: 12825.3 KB)
+0088.641 (0) Zip: backup_2024-02-08-2232_Easy_way_9230bb36dfc9-plugins.zip.tmp: 2200 files added (on-disk size: 12825.3 KB)
+0088.671 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (22.8 MB, 916 (2201) files added so far); re-opening (prior size: 12825.3 KB)
+0133.157 (0) Zip: backup_2024-02-08-2232_Easy_way_9230bb36dfc9-plugins.zip.tmp: 2300 files added (on-disk size: 17670.3 KB)
+0133.390 (0) Zip: backup_2024-02-08-2232_Easy_way_9230bb36dfc9-plugins.zip.tmp: 2400 files added (on-disk size: 17670.3 KB)
+0133.530 (0) Zip: backup_2024-02-08-2232_Easy_way_9230bb36dfc9-plugins.zip.tmp: 2500 files added (on-disk size: 17670.3 KB)
+0133.686 (0) Zip: backup_2024-02-08-2232_Easy_way_9230bb36dfc9-plugins.zip.tmp: 2600 files added (on-disk size: 17670.3 KB)
+0133.859 (0) Zip: backup_2024-02-08-2232_Easy_way_9230bb36dfc9-plugins.zip.tmp: 2700 files added (on-disk size: 17670.3 KB)
+0134.014 (0) Zip: backup_2024-02-08-2232_Easy_way_9230bb36dfc9-plugins.zip.tmp: 2800 files added (on-disk size: 17670.3 KB)
+0134.158 (0) Zip: backup_2024-02-08-2232_Easy_way_9230bb36dfc9-plugins.zip.tmp: 2900 files added (on-disk size: 17670.3 KB)
+0134.292 (0) Zip: backup_2024-02-08-2232_Easy_way_9230bb36dfc9-plugins.zip.tmp: 3000 files added (on-disk size: 17670.3 KB)
+0134.452 (0) Zip: backup_2024-02-08-2232_Easy_way_9230bb36dfc9-plugins.zip.tmp: 3100 files added (on-disk size: 17670.3 KB)
+0134.724 (0) Zip: backup_2024-02-08-2232_Easy_way_9230bb36dfc9-plugins.zip.tmp: 3200 files added (on-disk size: 17670.3 KB)
+0134.837 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (11.7 MB, 7365 files batched, 1001 (3202) added so far); re-opening (prior size: 17670.3 KB)
+0178.806 (0) Zip: backup_2024-02-08-2232_Easy_way_9230bb36dfc9-plugins.zip.tmp: 3300 files added (on-disk size: 21626.1 KB)
+0179.032 (0) Zip: backup_2024-02-08-2232_Easy_way_9230bb36dfc9-plugins.zip.tmp: 3400 files added (on-disk size: 21626.1 KB)
+0179.330 (0) Zip: backup_2024-02-08-2232_Easy_way_9230bb36dfc9-plugins.zip.tmp: 3500 files added (on-disk size: 21626.1 KB)
+0179.647 (0) Zip: backup_2024-02-08-2232_Easy_way_9230bb36dfc9-plugins.zip.tmp: 3600 files added (on-disk size: 21626.1 KB)
+0180.122 (0) Zip: backup_2024-02-08-2232_Easy_way_9230bb36dfc9-plugins.zip.tmp: 3700 files added (on-disk size: 21626.1 KB)
+0180.354 (0) Zip: backup_2024-02-08-2232_Easy_way_9230bb36dfc9-plugins.zip.tmp: 3800 files added (on-disk size: 21626.1 KB)
+0180.578 (0) Zip: backup_2024-02-08-2232_Easy_way_9230bb36dfc9-plugins.zip.tmp: 3900 files added (on-disk size: 21626.1 KB)
+0180.736 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (11.9 MB, 699 (3901) files added so far); re-opening (prior size: 21626.1 KB)
+0217.245 (0) Zip: backup_2024-02-08-2232_Easy_way_9230bb36dfc9-plugins.zip.tmp: 4000 files added (on-disk size: 24850.1 KB)
+0217.410 (0) Zip: backup_2024-02-08-2232_Easy_way_9230bb36dfc9-plugins.zip.tmp: 4100 files added (on-disk size: 24850.1 KB)
+0217.574 (0) Zip: backup_2024-02-08-2232_Easy_way_9230bb36dfc9-plugins.zip.tmp: 4200 files added (on-disk size: 24850.1 KB)
+0217.809 (0) Zip: backup_2024-02-08-2232_Easy_way_9230bb36dfc9-plugins.zip.tmp: 4300 files added (on-disk size: 24850.1 KB)
+0217.924 (0) Zip: backup_2024-02-08-2232_Easy_way_9230bb36dfc9-plugins.zip.tmp: 4400 files added (on-disk size: 24850.1 KB)
+0218.155 (0) Zip: backup_2024-02-08-2232_Easy_way_9230bb36dfc9-plugins.zip.tmp: 4500 files added (on-disk size: 24850.1 KB)
+0218.459 (0) Zip: backup_2024-02-08-2232_Easy_way_9230bb36dfc9-plugins.zip.tmp: 4600 files added (on-disk size: 24850.1 KB)
+0218.747 (0) Zip: backup_2024-02-08-2232_Easy_way_9230bb36dfc9-plugins.zip.tmp: 4700 files added (on-disk size: 24850.1 KB)
+0218.935 (0) Zip: backup_2024-02-08-2232_Easy_way_9230bb36dfc9-plugins.zip.tmp: 4800 files added (on-disk size: 24850.1 KB)
+0219.095 (0) Zip: backup_2024-02-08-2232_Easy_way_9230bb36dfc9-plugins.zip.tmp: 4900 files added (on-disk size: 24850.1 KB)
+0219.123 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (10.3 MB, 7365 files batched, 1001 (4902) added so far); re-opening (prior size: 24850.1 KB)
+0259.665 (0) The scheduled resumption is within 45 seconds - will reschedule
+0259.832 (0) Rescheduling resumption 1: moving to 345 seconds from now (1707421356)
+0259.967 (0) To decrease the likelihood of overlaps, increasing resumption interval to: 300 + 45 = 345
+0260.212 (0) Zip: backup_2024-02-08-2232_Easy_way_9230bb36dfc9-plugins.zip.tmp: 5000 files added (on-disk size: 28169.3 KB)
+0260.360 (0) Zip: backup_2024-02-08-2232_Easy_way_9230bb36dfc9-plugins.zip.tmp: 5100 files added (on-disk size: 28169.3 KB)
+0260.495 (0) Zip: backup_2024-02-08-2232_Easy_way_9230bb36dfc9-plugins.zip.tmp: 5200 files added (on-disk size: 28169.3 KB)
+0260.898 (0) Zip: backup_2024-02-08-2232_Easy_way_9230bb36dfc9-plugins.zip.tmp: 5300 files added (on-disk size: 28169.3 KB)
+0261.391 (0) Zip: backup_2024-02-08-2232_Easy_way_9230bb36dfc9-plugins.zip.tmp: 5400 files added (on-disk size: 28169.3 KB)
+0261.594 (0) Zip: backup_2024-02-08-2232_Easy_way_9230bb36dfc9-plugins.zip.tmp: 5500 files added (on-disk size: 28169.3 KB)
+0261.765 (0) Zip: backup_2024-02-08-2232_Easy_way_9230bb36dfc9-plugins.zip.tmp: 5600 files added (on-disk size: 28169.3 KB)
+0261.946 (0) Zip: backup_2024-02-08-2232_Easy_way_9230bb36dfc9-plugins.zip.tmp: 5700 files added (on-disk size: 28169.3 KB)
+0262.371 (0) Zip: backup_2024-02-08-2232_Easy_way_9230bb36dfc9-plugins.zip.tmp: 5800 files added (on-disk size: 28169.3 KB)
+0262.668 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (22.4 MB, 969 (5871) files added so far); re-opening (prior size: 28169.3 KB)
+0282.630 (0) Zip: backup_2024-02-08-2232_Easy_way_9230bb36dfc9-plugins.zip.tmp: 5900 files added (on-disk size: 34188.8 KB)
+0282.808 (0) Zip: backup_2024-02-08-2232_Easy_way_9230bb36dfc9-plugins.zip.tmp: 6000 files added (on-disk size: 34188.8 KB)
+0283.010 (0) Zip: backup_2024-02-08-2232_Easy_way_9230bb36dfc9-plugins.zip.tmp: 6100 files added (on-disk size: 34188.8 KB)
+0283.154 (0) Zip: backup_2024-02-08-2232_Easy_way_9230bb36dfc9-plugins.zip.tmp: 6200 files added (on-disk size: 34188.8 KB)
+0283.423 (0) Zip: backup_2024-02-08-2232_Easy_way_9230bb36dfc9-plugins.zip.tmp: 6300 files added (on-disk size: 34188.8 KB)
+0283.578 (0) Zip: backup_2024-02-08-2232_Easy_way_9230bb36dfc9-plugins.zip.tmp: 6400 files added (on-disk size: 34188.8 KB)
+0283.748 (0) Zip: backup_2024-02-08-2232_Easy_way_9230bb36dfc9-plugins.zip.tmp: 6500 files added (on-disk size: 34188.8 KB)
+0283.867 (0) Zip: backup_2024-02-08-2232_Easy_way_9230bb36dfc9-plugins.zip.tmp: 6600 files added (on-disk size: 34188.8 KB)
+0284.068 (0) Zip: backup_2024-02-08-2232_Easy_way_9230bb36dfc9-plugins.zip.tmp: 6700 files added (on-disk size: 34188.8 KB)
+0284.668 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (15.5 MB, 927 (6798) files added so far); re-opening (prior size: 34188.8 KB)
+0374.181 (0) The time we have been running (374.1) is approaching the resumption interval (345) - increasing resumption interval to 405
+0374.564 (0) Zip: backup_2024-02-08-2232_Easy_way_9230bb36dfc9-plugins.zip.tmp: 6800 files added (on-disk size: 40463.9 KB)
+0374.900 (0) Zip: backup_2024-02-08-2232_Easy_way_9230bb36dfc9-plugins.zip.tmp: 6900 files added (on-disk size: 40463.9 KB)
+0375.179 (0) Zip: backup_2024-02-08-2232_Easy_way_9230bb36dfc9-plugins.zip.tmp: 7000 files added (on-disk size: 40463.9 KB)
+0375.577 (0) Zip: backup_2024-02-08-2232_Easy_way_9230bb36dfc9-plugins.zip.tmp: 7100 files added (on-disk size: 40463.9 KB)
+0375.862 (0) Zip: backup_2024-02-08-2232_Easy_way_9230bb36dfc9-plugins.zip.tmp: 7200 files added (on-disk size: 40463.9 KB)
+0376.130 (0) Zip: backup_2024-02-08-2232_Easy_way_9230bb36dfc9-plugins.zip.tmp: 7300 files added (on-disk size: 40463.9 KB)
+0419.538 (0) The time we have been running (419.3) is approaching the resumption interval (405) - increasing resumption interval to 450
+0419.933 (0) Creating zip file manifest (backup_2024-02-08-2232_Easy_way_9230bb36dfc9-plugins.zip.list-temp.tmp)
+0420.150 (0) Successfully created zip file manifest (size: 609654)
+0422.605 (0) Created plugins zip (0) - 41694.7 KB in 420.5 s (99.1 KB/s) (sha1: 9002a144afee935259f4f286f590bbc62f4343cb, sha256: 4f638fd1889dabc8578ea455f8142ccbe03ba924dc0248bbfc8f4ce4324c0b8a)
+0422.934 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0422.971 (0) No remote despatch: user chose no remote backup service
+0423.021 (0) Recording as successfully uploaded: backup_2024-02-08-2232_Easy_way_9230bb36dfc9-plugins.zip
+0423.155 (0) Deleting zip manifest (backup_2024-02-08-2232_Easy_way_9230bb36dfc9-plugins.zip.list.tmp)
+0423.272 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0423.306 (0) Number of backup sets in history: 0; groups (db): 1
+0423.338 (0) Number of backup sets in history: 0; groups (files): 1
+0423.373 (0) Retain: saving new backup history (sets now: 0) and finishing retain operation
+0423.666 (0) Beginning creation of dump of themes (split every: 400 MB)
+0426.368 (0) Total entities for the zip file: 69 directories, 688 files (0 skipped as non-modified), 16.9 MB
+0426.685 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.7 MB, 86 (86) files added so far); re-opening (prior size: 0 KB)
+0437.317 (0) The time we have been running (437) is approaching the resumption interval (450) - increasing resumption interval to 468
+0437.524 (0) Zip: backup_2024-02-08-2232_Easy_way_9230bb36dfc9-themes.zip.tmp: 100 files added (on-disk size: 276 KB)
+0437.665 (0) Zip: backup_2024-02-08-2232_Easy_way_9230bb36dfc9-themes.zip.tmp: 200 files added (on-disk size: 276 KB)
+0437.866 (0) Zip: backup_2024-02-08-2232_Easy_way_9230bb36dfc9-themes.zip.tmp: 300 files added (on-disk size: 276 KB)
+0438.048 (0) Zip: backup_2024-02-08-2232_Easy_way_9230bb36dfc9-themes.zip.tmp: 400 files added (on-disk size: 276 KB)
+0438.270 (0) Zip: backup_2024-02-08-2232_Easy_way_9230bb36dfc9-themes.zip.tmp: 500 files added (on-disk size: 276 KB)
+0438.496 (0) Zip: backup_2024-02-08-2232_Easy_way_9230bb36dfc9-themes.zip.tmp: 600 files added (on-disk size: 276 KB)
+0486.710 (0) The time we have been running (486.6) is approaching the resumption interval (468) - increasing resumption interval to 517
+0486.911 (0) Creating zip file manifest (backup_2024-02-08-2232_Easy_way_9230bb36dfc9-themes.zip.list-temp.tmp)
+0486.967 (0) Successfully created zip file manifest (size: 45787)
+0487.817 (0) Created themes zip (0) - 6648.1 KB in 64 s (103.9 KB/s) (sha1: db236a70d1affe644737326c6edbc924df430d2c, sha256: 47a22f43e17a7975ff22d654a993a7ed4ea1a5221304fea9161e08a5a1a6e415)
+0487.965 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0488.035 (0) No remote despatch: user chose no remote backup service
+0488.256 (0) Recording as successfully uploaded: backup_2024-02-08-2232_Easy_way_9230bb36dfc9-themes.zip
+0488.622 (0) Deleting zip manifest (backup_2024-02-08-2232_Easy_way_9230bb36dfc9-themes.zip.list.tmp)
+0488.885 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0488.922 (0) Number of backup sets in history: 0; groups (db): 1
+0488.989 (0) Number of backup sets in history: 0; groups (files): 1
+0489.020 (0) Retain: saving new backup history (sets now: 0) and finishing retain operation
+0489.221 (0) Exclusion option setting (uploads): backup*,*backups,backwpup*,wp-clone,snapshots
+0489.272 (0) Looking for candidates to backup in: C:\xampp\htdocs\Easy-jobs/wp-content/uploads
+0489.360 (0) finding files: 2024: adding to list (1)
+0489.401 (0) finding files: elementor: adding to list (2)
+0489.436 (0) finding files: phlox: adding to list (3)
+0489.468 (0) finding files: simply-static: adding to list (4)
+0489.508 (0) finding files: wc-logs: adding to list (5)
+0489.565 (0) finding files: woocommerce_uploads: adding to list (6)
+0489.653 (0) finding files: wpcf7_uploads: adding to list (7)
+0489.776 (0) finding files: wpforms: adding to list (8)
+0489.804 (0) Beginning creation of dump of uploads (split every: 400 MB)
+0490.043 (0) Total entities for the zip file: 13 directories, 65 files (0 skipped as non-modified), 6.1 MB
+0495.441 (0) The time we have been running (495.3) is approaching the resumption interval (517) - increasing resumption interval to 526
+0495.588 (0) Creating zip file manifest (backup_2024-02-08-2232_Easy_way_9230bb36dfc9-uploads.zip.list-temp.tmp)
+0495.657 (0) Successfully created zip file manifest (size: 3248)
+0495.919 (0) Created uploads zip (0) - 1937.9 KB in 6 s (321.9 KB/s) (sha1: bda6c73bd3b9257d5a64d012da2d0a5e7c256962, sha256: ebb6cd5105bef7ac77bc725e81e00b3786c3cd772a202cd738d1ac6cc128d2d1)
+0496.301 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0496.454 (0) No remote despatch: user chose no remote backup service
+0496.575 (0) Recording as successfully uploaded: backup_2024-02-08-2232_Easy_way_9230bb36dfc9-uploads.zip
+0496.740 (0) Deleting zip manifest (backup_2024-02-08-2232_Easy_way_9230bb36dfc9-uploads.zip.list.tmp)
+0496.874 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0496.920 (0) Number of backup sets in history: 0; groups (db): 1
+0496.970 (0) Number of backup sets in history: 0; groups (files): 1
+0497.020 (0) Retain: saving new backup history (sets now: 0) and finishing retain operation
+0497.156 (0) No backup of mu-plugins: excluded by user's options
+0497.321 (0) Beginning backup of other directories found in the content directory (index: 0)
+0497.488 (0) Exclusion option setting (others): upgrade,cache,updraft,backup*,*backups,mysql.sql,debug.log
+0497.554 (0) Looking for candidates to backup in: C:\xampp\htdocs\Easy-jobs/wp-content
+0497.639 (0) finding files: ai1wm-backups: skipping: excluded by options (glob)
+0497.721 (0) finding files: index.php: adding to list (1)
+0497.791 (0) finding files: plugins: skipping: this is the plugins directory
+0497.837 (0) finding files: themes: skipping: this is the themes directory
+0497.905 (0) finding files: updraft: skipping: this is the updraft directory
+0498.036 (0) finding files: upgrade: skipping: excluded by options
+0498.087 (0) finding files: upgrade-temp-backup: adding to list (2)
+0498.137 (0) finding files: uploads: skipping: this is the uploads directory
+0498.238 (0) Total entities for the zip file: 2 directories, 1 files (0 skipped as non-modified), 0 MB
+0498.418 (0) The time we have been running (498.3) is approaching the resumption interval (526) - increasing resumption interval to 529
+0498.524 (0) Creating zip file manifest (backup_2024-02-08-2232_Easy_way_9230bb36dfc9-others.zip.list-temp.tmp)
+0498.581 (0) Successfully created zip file manifest (size: 43)
+0498.808 (0) Created others zip (0) - 0.4 KB in 0.5 s (0.7 KB/s) (sha1: b720bd80a436eb89bc2480395e04660e6629c038, sha256: ddd949481428990bbbd0478dec51b332052eac93b350054cc9daa0de40f3f8b8)
+0498.986 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0499.019 (0) No remote despatch: user chose no remote backup service
+0499.053 (0) Recording as successfully uploaded: backup_2024-02-08-2232_Easy_way_9230bb36dfc9-others.zip
+0499.119 (0) Deleting zip manifest (backup_2024-02-08-2232_Easy_way_9230bb36dfc9-others.zip.list.tmp)
+0499.252 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0499.318 (0) Number of backup sets in history: 0; groups (db): 1
+0499.352 (0) Number of backup sets in history: 0; groups (files): 1
+0499.470 (0) Retain: saving new backup history (sets now: 0) and finishing retain operation
+0500.019 (0) Saving backup status to database (elements: 8)
+0500.200 (0) Beginning creation of database dump (WordPress DB)
+0500.323 (0) SQL compatibility mode is: NO_ZERO_IN_DATE,NO_ENGINE_SUBSTITUTION
+0502.019 (0) Table wp_options: Total expected rows (via COUNT): 629
+0502.470 (0) Table wp_options: Rows added in this batch (next record: 8746): 625 (uncompressed bytes in this segment=2628468) in 1.55 seconds
+0502.686 (0) The time we have been running (502.6) is approaching the resumption interval (529) - increasing resumption interval to 533
+0502.985 (0) Table wp_options: finishing file(s) (2, 299.7 KB)
+0503.491 (0) Table wp_users: Total expected rows (via COUNT): 1
+0503.731 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0504.023 (0) Table wp_users: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=1184) in 0.89 seconds
+0504.253 (0) The time we have been running (504.1) is approaching the resumption interval (533) - increasing resumption interval to 535
+0505.153 (0) Table wp_users: finishing file(s) (2, 0.6 KB)
+0505.920 (0) Table wp_usermeta: Total expected rows (via COUNT): 57
+0507.420 (0) Table is relatively small; fetch_rows will thus be: 100 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0507.703 (0) Table wp_usermeta: Rows added in this batch (next record: 59): 57 (uncompressed bytes in this segment=6083) in 2.32 seconds
+0508.151 (0) The time we have been running (507.9) is approaching the resumption interval (535) - increasing resumption interval to 538
+0509.012 (0) The time we have been running (508.6) is approaching the resumption interval (538) - increasing resumption interval to 539
+0509.286 (0) Table wp_usermeta: finishing file(s) (2, 2.8 KB)
+0510.331 (0) Table wp_actionscheduler_actions: Total expected rows (via COUNT): 25
+0510.582 (0) Table is relatively small; fetch_rows will thus be: 50 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0510.767 (0) Table wp_actionscheduler_actions: Rows added in this batch (next record: 37): 25 (uncompressed bytes in this segment=12527) in 1.36 seconds
+0511.153 (0) The time we have been running (510.9) is approaching the resumption interval (539) - increasing resumption interval to 541
+0511.506 (0) The time we have been running (511.3) is approaching the resumption interval (541) - increasing resumption interval to 542
+0511.836 (0) Table wp_actionscheduler_actions: finishing file(s) (2, 1.8 KB)
+0512.439 (0) Table wp_actionscheduler_claims: Total expected rows (via COUNT): 0
+0512.553 (0) Table wp_actionscheduler_claims: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=626) in 0.52 seconds
+0512.990 (0) The time we have been running (512.7) is approaching the resumption interval (542) - increasing resumption interval to 543
+0513.220 (0) The time we have been running (513.2) is approaching the resumption interval (543) - increasing resumption interval to 544
+0513.288 (0) Table wp_actionscheduler_claims: finishing file(s) (2, 0.4 KB)
+0513.700 (0) Table wp_actionscheduler_groups: Total expected rows (via COUNT): 4
+0513.802 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0513.900 (0) Table wp_actionscheduler_groups: Rows added in this batch (next record: 4): 4 (uncompressed bytes in this segment=721) in 0.48 seconds
+0514.419 (0) The time we have been running (514.1) is approaching the resumption interval (544) - increasing resumption interval to 545
+0514.569 (0) Table wp_actionscheduler_groups: finishing file(s) (2, 0.4 KB)
+0514.914 (0) Table wp_actionscheduler_logs: Total expected rows (via COUNT): 61
+0514.965 (0) Table is relatively small; fetch_rows will thus be: 100 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0515.080 (0) Table wp_actionscheduler_logs: Rows added in this batch (next record: 61): 61 (uncompressed bytes in this segment=6432) in 0.39 seconds
